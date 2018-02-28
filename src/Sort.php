@@ -8,11 +8,7 @@
 
 namespace egor260890\sort;
 
-use core\exceptions\SortAttributeException;
 use Prophecy\Exception\Doubler\MethodNotFoundException;
-use Yii;
-use yii\db\Exception;
-use yii\web\BadRequestHttpException;
 use yii2tech\ar\position\PositionBehavior;
 
 trait Sort
