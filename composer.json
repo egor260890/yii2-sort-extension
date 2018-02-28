@@ -10,6 +10,7 @@
             "email": "egor260890@mail.ru"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": "~2.0.0",
         "yii2tech/ar-position":"^1.0"

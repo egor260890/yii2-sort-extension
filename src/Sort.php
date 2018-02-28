@@ -8,8 +8,6 @@
 
 namespace egor260890\sort;
 
-
-use backend\models\Products;
 use core\exceptions\SortAttributeException;
 use Prophecy\Exception\Doubler\MethodNotFoundException;
 use Yii;
