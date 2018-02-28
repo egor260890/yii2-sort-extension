@@ -3,7 +3,6 @@
     "description": "yii2-sort-extension",
     "type": "yii2-extension",
     "keywords": ["yii2"," extension"],
-    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
